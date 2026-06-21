@@ -65,7 +65,7 @@ I enjoy building practical digital products that combine web development, AI int
 ## 📌 Featured Projects
 
 ### 1. AI Resume Analyzer
-A full-stack AI-powered application for analyzing CV compatibility with job descriptions.
+A full-stack AI-powered application that analyzes CV compatibility with job descriptions using ATS scoring, keyword matching, and AI-assisted recommendations.
 
 **Key Features:**
 - PDF upload and CV validation
@@ -80,10 +80,14 @@ A full-stack AI-powered application for analyzing CV compatibility with job desc
 
 **Tech Stack:** React, TypeScript, FastAPI, Python, Vite, Tailwind CSS, Pytest, Vitest
 
+![AI Resume Analyzer Screenshot](./assets/ai-resume-analyzer.png)
+
+🔗 **Live Demo:** [https://isi-link-demo-ai-resume-analyzer.com ](https://ai-resume-analyzer-sigma-coral.vercel.app/)
+💻 **Repository:** https://github.com/YogiKUmam/ai-resume-analyzer
 ---
 
 ### 2. Arkode Labs — Software House Website
-A responsive company profile website for a software house.
+A responsive company profile website for a software house, featuring services, case studies, pricing, blog, contact, and privacy pages.
 
 **Key Features:**
 - Home, Services, Case Studies, About, Pricing, Blog, Contact, and Privacy pages
@@ -94,10 +98,14 @@ A responsive company profile website for a software house.
 
 **Tech Stack:** React, TypeScript, Vite, React Router, Tailwind CSS, Vitest
 
+![Arkode Labs Screenshot](./assets/arkode-labs.png)
+
+🔗 **Live Demo:** [https://isi-link-demo-arkode-labs.com  ](https://arkodelabs.vercel.app/)
+💻 **Repository:** [https://github.com/YogiKUmam/arkode-labs-website](https://github.com/YogiKUmam/Arkode/)
 ---
 
 ### 3. Nusantara Language Academy
-An interactive Indonesian language-learning website for foreign learners, students, and families.
+An interactive Indonesian language-learning website for foreign learners, students, and families, featuring learning modules, quizzes, certificates, and an admin dashboard.
 
 **Key Features:**
 - Learning modules
@@ -109,10 +117,14 @@ An interactive Indonesian language-learning website for foreign learners, studen
 
 **Tech Stack:** React, JavaScript, Vite, Custom CSS, Web Speech API, localStorage, Playwright
 
+![Nusantara Language Academy Screenshot](./assets/nusantara-language-academy.png)
+
+🔗 **Live Demo:** [https://isi-link-demo-nusantara-language-academy.com ](https://nusantara-language-academy.vercel.app/) 
+💻 **Repository:** [https://github.com/YogiKUmam/nusantara-language-academy](https://github.com/YogiKUmam/Nusantara-Language-Academy)
 ---
 
 ### 4. StepUp AI Learn
-An AI-powered learning planning application that helps users turn goals into personalized study plans.
+An AI-powered learning planning application that transforms user goals into personalized and trackable study plans with an AI Learning Coach.
 
 **Key Features:**
 - Authentication
@@ -125,6 +137,10 @@ An AI-powered learning planning application that helps users turn goals into per
 
 **Tech Stack:** Full-Stack Development, Gemini AI Integration, Prompt Engineering, Software Testing, Product Development
 
+![StepUp AI Learn Screenshot](./assets/stepup-ai-learn.png)
+
+🔗 **Live Demo:** https://isi-link-demo-stepup-ai-learn.com  
+💻 **Repository:** https://github.com/YogiKUmam/stepup-ai-learn
 ---
 
 ### 5. Odentic
